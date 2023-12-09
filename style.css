@@ -460,7 +460,7 @@ footer {
         text-align: center;
     }
 }
-@media (max-width: 395px){
+@media (max-width: 326px){
     .sobre-nos img{
         width: 250px;
         height: auto;
@@ -490,11 +490,13 @@ footer {
         height: 150px;
     }
     .itens-empresa .info h4{
-        grid-template-columns: 70px 130px;
+        grid-template-columns: 93px 150px;
     }
+    
     .itens-empresa .info .contato{
-        width: 80%;
+        width: 50%;
         font-size: 1.5rem;
+
     }
     
 }
