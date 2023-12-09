@@ -490,10 +490,10 @@ footer {
         height: 150px;
     }
     .itens-empresa .info h4{
-        grid-template-columns: 93px 153px;
+        grid-template-columns: 70px 130px;
     }
     .itens-empresa .info .contato{
-        width: 100%;
+        width: 80%;
         font-size: 1.5rem;
     }
     
